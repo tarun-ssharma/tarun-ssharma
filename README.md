@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 *⚡ Fun fact 1*: Balloons lose air over time because of diffusion through the presumably rigid balloon walls!
+
 *⚡ Fun fact 2*: Balloons shrink in size when the outside air is cold, due to the gas molecules losing energy and coming closer together.
 
 Did I **burst your ballon**? 😛
